@@ -1,0 +1,25 @@
+///////////////
+//           //
+//  ROADMAP  //
+//           //
+///////////////
+---------------
+--- GENERAL ---
+---------------
+* font / text
+* icons
+* keyboard control switching
+---------------
+-- REEL2REEL --
+---------------
+* cue volume
+* master bus volume
+* stop
+* play
+* rec
+* overdub
+* topscreen d-pad controls
+* botscreen touch controls
+---------------
+--- FMSYNTH ---
+---------------

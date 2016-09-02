@@ -1,0 +1,3 @@
+#!/bin/sh
+cp op1.nds /Volumes/DOODLES/
+diskutil unmount disk1s1
